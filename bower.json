@@ -1,0 +1,21 @@
+{
+  "name": "bower-noticia-text",
+  "version": "0.0.1",
+  "homepage": "https://github.com/stones/bower-noticia-text",
+  "authors": [
+    "Tom Stones <tom@tomstones.com.au>"
+  ],
+  "description": "A webfont kit for the Noticia Text font found at http://jmsole.cl/noticia-fuentes-para-pantalla/",
+  "main": "styles/noticia.css",
+  "keywords": [
+    "fontkit",
+  ],
+  "license": "DBAD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
